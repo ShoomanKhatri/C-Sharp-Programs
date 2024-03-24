@@ -1,8 +1,9 @@
 ﻿
 //  Calling  the Main() method of the <<FileName>> class for running the program.
 
-// HelloWorld.Main();
+HelloWorld.Main();
 // Generic.Main();
 //CheckPrime.Main();
 //DisplayEachCharacter.Main();
-ThisKeyword.Main();
+//OverloadBinary.Main();
+//Area.Main();

@@ -2,9 +2,8 @@
 
 class HelloWorld
 {
-    public static void Main()
+   public static void  Main()
     {
-        System.Console.WriteLine("Hello World!");
-        Console.ReadKey();
+        Console.WriteLine("Hello World");
     }
 }
